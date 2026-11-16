@@ -1,73 +1,123 @@
-# Arrow Flow: Privacy Policy
+Arrow Flow: Privacy Policy
 
-**Last updated:** 22 October 2026
-**App:** Arrow Flow: Arrow Puzzle Game (`com.bosscodes.arrowflow`)
-**Developer:** BossCodes
-**Contact:** hassamarain797@gmail.com
+Last updated: 16 November 2026
+App: Arrow Flow: Arrow Puzzle Game (com.bosscodes.arrowflow)
+Developer: BossCodes
+Contact: hassamarain797@gmail.com
 
 Arrow Flow is a puzzle game for Android. This policy explains, in plain words, what the
-app does with your information. The short version: **Arrow Flow does not collect your
-personal information.**
+app does with your information. The short version: the game keeps your progress on your
+phone and has no account of its own. Two Google services are used: Google Play Games,
+only if you choose to sign in, to keep your progress safe (section 4), and Google AdMob,
+which shows the ads and uses your Advertising ID (section 5).
 
-## 1. What we collect
+1. What we collect
 
-We do not collect, store on a server, share or sell any personal information. The app
-has no account or sign-in, no advertising, no analytics and no tracking. We do not ask
-for your name, e-mail address, phone number, contacts, photos, microphone, camera or
-location, and the app does not request any permission to read them.
+We do not ask for your name, e-mail address, phone number, contacts, photos, microphone,
+camera or location, the game has no account of its own, and we run no analytics or
+tracking of our own. We do not store your information on any server of ours, and we do
+not sell it. Two things involve Google:
 
-## 2. What stays on your phone
+Signing in to Google Play Games is optional and saves your progress to your own Play
+Games account (section 4).
+Arrow Flow shows ads through Google AdMob, which collects some information to show
+and measure ads (section 5).
+2. What stays on your phone
 
-To let you carry on where you stopped, the game saves on your device only: your progress
+To let you carry on where you stopped, the game saves on your device: your progress
 (levels completed, stars, best times), your streak and records, the golden arrows and
 worlds you unlocked, your hints and hearts, and your settings (sound, music, vibration,
-dark mode, colours). This data never leaves your phone. It is deleted when you uninstall
-the app or clear its storage in Android settings.
+dark mode, colours). This data stays on your phone unless you sign in to Google Play
+Games (section 4). It is deleted from the phone when you uninstall the app or clear its
+storage in Android settings.
 
-## 3. Internet
+3. Internet
 
-The game works fully offline. The app itself does not connect to any server of ours and
-does not send any data anywhere.
+The game works offline. It uses the internet only to load ads, to save and restore your
+progress if you signed in to Google Play Games, and, if you installed it from Google Play,
+for Google Play’s update check. Without signing in to Google Play Games, the app does not
+send your game progress anywhere.
 
-## 4. Google Play
+4. Google Play Games (optional cloud save)
+
+You can sign in to Google Play Games from Settings. If you do, Arrow Flow saves your
+progress (levels, stars, golden arrows, worlds, hints, hearts and your daily gift) as a
+“saved game” in your own Google Play Games account, so you can carry on after reinstalling
+or on a new phone. The app reads your Play Games player name only to show a letter in
+Settings. The saved game and your player ID are handled by Google under Google’s privacy
+policy (https://policies.google.com/privacy). We do not receive them on any server of
+ours and we do not share them. Your phone settings (sound, dark mode and so on) are not
+uploaded.
+
+You are in control. In Settings > Google Play Games you can turn cloud save off
+(Disconnect), save now, and Delete my cloud save, which removes the saved game from
+your Play Games account. Signing out of Google Play Games itself is done in the Play
+Games app. If you never sign in, nothing is saved to the cloud.
+
+5. Ads (Google AdMob)
+
+The game is free and shows ads: a short ad when the app opens or returns to the front, an
+ad between screens or levels, and optional videos you can watch to earn a heart or to
+continue a level. The ads are provided by Google AdMob. To show them, Google may collect
+and use your device’s Advertising ID, approximate location (from your IP address),
+information about how you interact with the ads, and device and diagnostic information
+(such as crashes), under Google’s privacy policy
+(https://policies.google.com/privacy and
+https://policies.google.com/technologies/partner-sites). We do not receive your personal
+information from this, and we do not sell it.
+
+Your choices:
+
+In the EU, the UK and some other places the game first asks for your consent (Google’s
+consent form). You can change your choice at any time in Settings > Privacy options
+(it appears where the law asks for it).
+On your phone you can reset your Advertising ID or turn off ad personalisation in the
+Google settings (Settings > Google > Ads).
+Ads shown are limited to content suitable for a general audience.
+6. Google Play
 
 If you installed Arrow Flow from Google Play, Google may tell the app that a newer version
-is available (the "update available" box) through Google Play's own update service. This
-is done by Google Play on your phone, under Google's own privacy policy
+is available (the “update available” box) through Google Play’s own update service. This
+is done by Google Play on your phone, under Google’s own privacy policy
 (https://policies.google.com/privacy). Google Play may also give us anonymous crash and
 performance reports (Android vitals) if you chose to share diagnostics with Google; they
 contain no personal information about you and we use them only to fix problems.
 
-## 5. Third-party code and content
+7. Third-party code and content
 
 The game uses open-source libraries (Flutter, Flame, audioplayers and others) that run
-inside the app and do not send your data anywhere. The pictures and music in the game are
-used under their free licenses; see the credits in the app description and the project
-page.
+inside the app. Apart from the Google services described above (Google Play Games, Google
+AdMob and Google Play), they do not send your data anywhere. The pictures and music in the
+game are used under their free licenses; see the credits in the app description and the
+project page.
 
-## 6. Children
+8. Children
 
-Arrow Flow has no ads, no purchases, no chat and no way to contact other people, and it
-collects nothing, so it is safe for all ages. We do not knowingly collect information from
-anyone, including children.
+Arrow Flow is not directed to children under 13, and we do not knowingly collect personal
+information from children under 13. Ads are set for a general audience. If you think a
+child has given us information, write to us and we will remove it.
 
-## 7. Your choices and rights
+9. Your choices and rights
 
-Because we hold no personal information about you, there is nothing for us to access,
-correct or delete on our side. You can remove everything the game saved on your phone at
-any time by clearing the app's storage or uninstalling it.
+We hold no personal information about you on any server of ours, so there is nothing for
+us to access, correct or delete. You can remove everything the game saved on your phone at
+any time by clearing the app’s storage or uninstalling it. The cloud save can be deleted
+in the app (section 4), and for ads you can use the choices in section 5. If you are in
+the EU or UK you also have the rights of the GDPR, which you can use with Google as the
+provider of the ads and of Google Play Games.
 
-## 8. Security
+10. Security
 
-Your game data is stored in the app's private storage on your phone, which other apps
-cannot read. Nothing is transmitted, so there is nothing to intercept.
+Your game data is stored in the app’s private storage on your phone, which other apps
+cannot read. Ads and the cloud save are sent over secure connections handled by Google’s
+own software.
 
-## 9. Changes to this policy
+11. Changes to this policy
 
 If this policy changes (for example when a new feature is added), the new version will be
-published at the same address with a new "Last updated" date, and the app description will
+published at the same address with a new “Last updated” date, and the app description will
 mention anything that affects your data.
 
-## 10. Contact
+12. Contact
 
 Questions about this policy? Write to: hassamarain797@gmail.com
